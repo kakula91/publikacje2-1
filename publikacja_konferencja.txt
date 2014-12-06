@@ -4,13 +4,13 @@ Tytul: Publikacja o fizyce
 Autor: Stanislaw Kowalski, Aleksandra Pawlik, Janek Kowalski
 
 Abstrakt:
-Do napisania pozniej
+Do napisania pozniej, dla Janka aa bbb 
 
 Dane:
 Nasze wspolne dane
 
-Analiza
+Analiza. Statystyka: Janek
 
-Wnioski
+Wnioski: Janek 
 (to napisze Janek)  
 Bibliografia
